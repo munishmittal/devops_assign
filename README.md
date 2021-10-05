@@ -1,7 +1,9 @@
 # devops_assign ReadMe
 
 Create a branch(development/production/feature)
+
 Edit files or create new files followed by commit
+
 Clone the repo and Create pull-request
 While collaborating your work, showcase how conflicts are resolved
 Create tag such as open issue, or feature-added
